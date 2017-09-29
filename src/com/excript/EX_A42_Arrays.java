@@ -6,7 +6,7 @@
 
 package com.excript;
 
-public class EX_A42_Array {
+public class EX_A42_Arrays {
 
     public static void main(String[] args) {
 

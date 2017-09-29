@@ -1,11 +1,11 @@
 /**
- * Aula 44 - Array
+ * Aula 44 - Arrays
  * set 20, 2017 - Learning Java-Netbeans
  * sergio.torres@outlook.com
  */
 package com.excript;
 
-public class EX_A44_Array {
+public class EX_A44_Arrays {
 
     public static void main(String[] args) {
 

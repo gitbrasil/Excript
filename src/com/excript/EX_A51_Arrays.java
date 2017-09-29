@@ -1,5 +1,5 @@
 /**
- * Aula 51 - Array
+ * Aula 51 - Arrays
  * set 20, 2017 - Learning Java-Netbeans
  * sergio.torres@outlook.com
  */
@@ -7,7 +7,7 @@ package com.excript;
 
 import java.util.Scanner;
 
-public class EX_A51_Array {
+public class EX_A51_Arrays {
 
     public static void main(String[] args) {
         //
