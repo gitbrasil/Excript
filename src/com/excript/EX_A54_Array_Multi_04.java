@@ -5,7 +5,7 @@
  */
 package com.excript;
 
-public class EX_A54_Array_Multi04 {
+public class EX_A54_Array_Multi_04 {
 
     public static void main(String[] args) {
 
