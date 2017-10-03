@@ -14,7 +14,7 @@ public class Main {
 
         Mobile mobile2 = new Mobile();  // outra forma de instaciar a variavel
 
-        mobile.volume = 5;  // o modificador do volume foi defido como publico, 
+        mobile.volume = 5;  // o modificador do volume foi definido como publico, 
                             // acesso total
 
 //        mobile.ligado = true;   // o modificador definido com privado, 
